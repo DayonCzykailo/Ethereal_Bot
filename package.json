@@ -1,0 +1,27 @@
+{
+  "name": "ethereal_bot",
+  "version": "1.0.0",
+  "description": "Um bot para discord, para não ficar dependendo dos outros...",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayonCzykailo/Ethereal_Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "ethereal"
+  ],
+  "author": "Dayon Czykailo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DayonCzykailo/Ethereal_Bot/issues"
+  },
+  "homepage": "https://github.com/DayonCzykailo/Ethereal_Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
