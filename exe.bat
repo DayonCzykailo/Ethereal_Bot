@@ -1,3 +1,3 @@
 echo off
 CLS
-start  node  .\src\main.js
+start  node  .\main.js

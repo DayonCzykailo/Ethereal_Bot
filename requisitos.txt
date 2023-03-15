@@ -1,0 +1,6 @@
+npm install opusscript
+npm install @discordjs/opus
+npm install ffmpeg-static  
+npm install discord-player
+
+npm install discord

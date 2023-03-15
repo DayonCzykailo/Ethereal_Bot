@@ -131,3 +131,4 @@ dist
 
 #ARQUIVOS PROTEGIDOS
 config.json
+env.json
